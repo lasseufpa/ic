@@ -47,16 +47,23 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |0|Syllabus ([Descrição do curso]()) / [Mais informações no Google Classrom]())|
 |1|**Introdução à inteligência artificial**|
 |2|**Regressão linear**|
-|3|**Decision stump e K-NN**|
-|4|**Árvores de decisão**|
-|5|**Ensemble learning**|
-|6|**Aprendizado Bayesiano**|
-|7|**Agrupamento e detecção de anomalia**|
-|8|**Introdução às redes neurais artificiais**|
-|9|**Redes neurais convolucionais**|
-|10|**Redes neurais recorrentes e transformers**|
+|3|**Modelos de classificação**|
+|3.1|**k-NN**|
+|3.2|**Decision stump**|
+|3.3|**Árvores de decisão**|
+|3.4|**Random forest**|
+|4|**Ensemble learning**|
+|5|**Aprendizado Bayesiano**|
+|6|**Agrupamento e detecção de anomalia**|
+|6.1|**K-means**|
+|7|**Introdução às redes neurais artificiais**|
+|8|**Redes neurais convolucionais I**|
+|9|**Redes neurais recorrentes**|
+|10|**Transformers**|
+|10|**Mecanismos de atenção**|
 |11|**LLMs**|
-|12|**Redes grafos neurais**|
+|12|**Aprendizado por reforço**|
+|13|**Redes grafos neurais**|
 
 
 ## Exercícios
