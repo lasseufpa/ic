@@ -53,13 +53,13 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf)**|
 |3|**Modelos de classificação**|
 |3.1|**k-NN**|
-|:page_facing_up:|**[Apresentação]**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf)**|
 |:computer:|**[Jupyter notebook]**|
 |3.2|**Decision stump**|
-|:page_facing_up:|**[Apresentação]**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf)**|
 |:computer:|**[Jupyter notebook]**|
 |3.3|**Árvores de decisão**|
-|:page_facing_up:|**[Apresentação]**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf)**|
 |:computer:|**[Jupyter notebook]**|
 |3.4|**Random forest**|
 |:page_facing_up:|**[Apresentação]**|
@@ -74,8 +74,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf)**|
 |:computer:|**[Jupyter notebook]**|
 |6|**Agrupamento e detecção de anomalia**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf)**|
+|:computer:|**[Jupyter notebook]**|
 |7|**Introdução às redes neurais artificiais**|
 |:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf)**|
 |:computer:|**[Jupyter notebook]**|
