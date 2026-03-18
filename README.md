@@ -46,24 +46,58 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |---|---|
 |0|Syllabus ([Descrição do curso]()) / [Mais informações no Google Classrom]())|
 |1|**Introdução à inteligência artificial**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf)**|
 |2|**Regressão linear**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf)**|
 |3|**Modelos de classificação**|
 |3.1|**k-NN**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |3.2|**Decision stump**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |3.3|**Árvores de decisão**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |3.4|**Random forest**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
+|3.5|**SVM**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |4|**Ensemble learning**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |5|**Aprendizado Bayesiano**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |6|**Agrupamento e detecção de anomalia**|
-|6.1|**K-means**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |7|**Introdução às redes neurais artificiais**|
-|8|**Redes neurais convolucionais I**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
+|8|**Redes neurais convolucionais**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |9|**Redes neurais recorrentes**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |10|**Transformers**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |10|**Mecanismos de atenção**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |11|**LLMs**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |12|**Aprendizado por reforço**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 |13|**Redes grafos neurais**|
+|:page_facing_up:|**[Apresentação]()**|
+|:computer:|**[Jupyter notebook]()**|
 
 
 ## Exercícios
