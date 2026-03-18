@@ -44,28 +44,28 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 ## Aulas
 
-| **N** | **Tópico** |
-|---|---|
-| 0 | Syllabus — [Descrição do curso]() / [Mais informações no Google Classroom]() |
-| 1 | **Introdução à inteligência artificial** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) |
-| 2 | **Regressão linear** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) |
-| 3 | **Modelos de classificação** |
-| 3.1 | **k-NN** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook]() |
-| 3.2 | **Decision stump** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf) / 💻 [Jupyter notebook]() |
-| 3.3 | **Árvores de decisão** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook]() |
-| 3.4 | **Random forest** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 3.5 | **SVM** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_5_SVM.pdf) / 💻 [Jupyter notebook]() |
-| 4 | **Ensemble learning** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook]() |
-| 5 | **Aprendizado Bayesiano** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook]() |
-| 6 | **Agrupamento e detecção de anomalia** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook]() |
-| 7 | **Introdução às redes neurais artificiais** — 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook]() |
-| 8 | **Redes neurais convolucionais** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 9 | **Redes neurais recorrentes** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 10 | **Transformers** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 11 | **Mecanismos de atenção** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 12 | **LLMs** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 13 | **Aprendizado por reforço** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
-| 14 | **Redes grafos neurais** — 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| **N** | **Tópico** | **Materiais** |
+|---|---|---|
+| 0 | Syllabus | [Descrição do curso]() / [Mais informações no Google Classroom]() |
+| 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) |
+| 2 | **Regressão linear** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) |
+| 3 | **Modelos de classificação** | |
+| 3.1 | **k-NN** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook]() |
+| 3.2 | **Decision stump** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf) / 💻 [Jupyter notebook]() |
+| 3.3 | **Árvores de decisão** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook]() |
+| 3.4 | **Random forest** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 3.5 | **SVM** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_5_SVM.pdf) / 💻 [Jupyter notebook]() |
+| 4 | **Ensemble learning** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook]() |
+| 5 | **Aprendizado Bayesiano** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook]() |
+| 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook]() |
+| 7 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook]() |
+| 8 | **Redes neurais convolucionais** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 9 | **Redes neurais recorrentes** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 10 | **Transformers** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 11 | **Mecanismos de atenção** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 12 | **LLMs** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 13 | **Aprendizado por reforço** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
+| 14 | **Redes grafos neurais** | 📄 [Apresentação]() / 💻 [Jupyter notebook]() |
 
 
 ## Exercícios
