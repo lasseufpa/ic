@@ -2,7 +2,7 @@
 
 Repositório para o curso de Inteligência Computacional [Faculdade de Engenharia da Computação e Telecomunicações (FCT)](https://fct.ufpa.br) da [Universidade Federal do Pará](http://ufpa.br).
 
-A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/1FyqMrqCBXzdegv7cbEQUJOaKhCQh92OR2OPHvtQAH1A/edit?tab=t.0)
+A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/e/2PACX-1vQAjfXB_RjCdKxbH8yHniZN7EjJ0YQIsRjUKnMgLsismxIQ93fM7eFW9baPVAq8CJe2-LOZX9NAAOd6/pub).
 
 ## Objetivos
 
@@ -53,53 +53,53 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf)**|
 |3|**Modelos de classificação**|
 |3.1|**k-NN**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |3.2|**Decision stump**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |3.3|**Árvores de decisão**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |3.4|**Random forest**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |3.5|**SVM**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_5_SVM.pdf)**|
+|:computer:|**[Jupyter notebook]**|
 |4|**Ensemble learning**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |5|**Aprendizado Bayesiano**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf)**|
+|:computer:|**[Jupyter notebook]**|
 |6|**Agrupamento e detecção de anomalia**|
 |:page_facing_up:|**[Apresentação]()**|
 |:computer:|**[Jupyter notebook]()**|
 |7|**Introdução às redes neurais artificiais**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf)**|
+|:computer:|**[Jupyter notebook]**|
 |8|**Redes neurais convolucionais**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |9|**Redes neurais recorrentes**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |10|**Transformers**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |10|**Mecanismos de atenção**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |11|**LLMs**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |12|**Aprendizado por reforço**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 |13|**Redes grafos neurais**|
-|:page_facing_up:|**[Apresentação]()**|
-|:computer:|**[Jupyter notebook]()**|
+|:page_facing_up:|**[Apresentação]**|
+|:computer:|**[Jupyter notebook]**|
 
 
 ## Exercícios
