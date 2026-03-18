@@ -2,6 +2,8 @@
 
 Repositório para o curso de Inteligência Computacional [Faculdade de Engenharia da Computação e Telecomunicações (FCT)](https://fct.ufpa.br) da [Universidade Federal do Pará](http://ufpa.br).
 
+A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/1FyqMrqCBXzdegv7cbEQUJOaKhCQh92OR2OPHvtQAH1A/edit?tab=t.0)
+
 ## Objetivos
 
 Apresentar conceitos básicos acerca de:
@@ -27,7 +29,7 @@ não-supervisionado e aprendizagem por reforço (“reinforcement learning”)
 que adotam a linguagem Python.
 
 
-## Avaliação
+## :writing_hand: Avaliação
 
 A avaliação de cada estudante será baseado em diversas atividades, tais como provas, atividades práticas e um trabalho final. De maneira, a disciplina terá a seguinte divisão:
 
@@ -35,7 +37,7 @@ A avaliação de cada estudante será baseado em diversas atividades, tais como 
 - 5 projetos guiados
 - 7 listas de exercícios
 
-## Bibliografia
+## :books: Bibliografia
 
 1. GÉRON, Aurélien: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts,
 Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
