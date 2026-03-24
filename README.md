@@ -49,7 +49,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 0 | Syllabus | [Descrição do curso]() / [Mais informações no Google Classroom]() |
 | 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) |
 | 2 | **Regressão linear** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) |
-| 3 | **Modelos de classificação** | |
+| 3 | **Modelos de classificação**  |
 | 3.1 | **k-NN** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook](notebooks/knn.ipynb) |
 | 3.2 | **Decision stump** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf) / 💻 [Jupyter notebook](notebooks/decicion_stump.ipynb) |
 | 3.3 | **Árvores de decisão** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook] |
