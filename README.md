@@ -4,7 +4,7 @@ Repositório para o curso de Inteligência Computacional [Faculdade de Engenhari
 
 A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/e/2PACX-1vQAjfXB_RjCdKxbH8yHniZN7EjJ0YQIsRjUKnMgLsismxIQ93fM7eFW9baPVAq8CJe2-LOZX9NAAOd6/pub).
 
-## Objetivos
+## :one: Objetivos
 
 Apresentar conceitos básicos acerca de:
 - Inteligência artificial (IA)
@@ -20,7 +20,7 @@ não-supervisionado e aprendizagem por reforço (“reinforcement learning”)
 - Uma das técnicas essenciais para LLMs: mecanismos de atenção
 
 
-## Habilidades e Competências
+## :pushpin: Habilidades e Competências
 
 - Identificar quais técnicas de IA devem ser aplicadas dado um problema de engenharia
 - Ter conhecimento da teoria e equações matemáticas nas quais os algoritmos são baseados
@@ -67,7 +67,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 14 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
 
-## Exercícios
+## :pencil2: Exercícios
 
 |**ID**|**Tópico**|
 |---|---|
@@ -79,7 +79,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |A06|[Transformers e LLM]|
 |A07|[Aprendizado por reforço e GCN]|
 
-## Projetos guiados
+## :triangular_ruler: Projetos guiados
 
 |**ID**|**Tópico**|
 |---|---|
@@ -89,7 +89,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T04|[Processamento de documentos usando LLM e RAG]|
 |T05|[Classificação de usuários em redes sociais usando GNN]|
 
-## Provas e exercícios passados:
+## 📄 Provas e exercícios passados:
 **ID**|**Tópico**|
 |---|---|
 |Q01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
