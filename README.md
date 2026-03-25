@@ -89,5 +89,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T04|[Processamento de documentos usando LLM e RAG]|
 |T05|[Classificação de usuários em redes sociais usando GNN]|
 
-
-## Links
+Colaboradores:
+- Cláudio Modesto
+- Frank Bruno
+- Faveren ShangBum
+- Pedro Canavieira
