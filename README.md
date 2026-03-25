@@ -46,7 +46,6 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 | **N** | **Tópico** | **Materiais** |
 |---|---|---|
-| 0 | Syllabus | [Descrição do curso]() / [Mais informações no Google Classroom]() |
 | 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) |
 | 2 | **Regressão linear** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) / 💻 [Jupyter notebook](notebooks/2_regressao_linear.ipynb)
 | 3 | **Modelos de classificação**  |
@@ -72,13 +71,13 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 |**ID**|**Tópico**|
 |---|---|
-|A01|[Normalização de dados]()|
-|A02|[Decision Stump]()|
-|A03|[k-NN]()|
-|A04|[Aprendizado bayesiano]()|
-|A05|[Redes neurais convolucionais]()|
-|A06|[Mecanismos de atenção]()|
-|A07|[GCN]()|
+|A01|[Introdução a IA e Normalização de dados]|
+|A02|[Decision Stump, Árvores de decisão k-NN e SVM]|
+|A03|[Redes neurais artificiais]|
+|A04|[Redes neurais convolucionais e recorrentes]|
+|A05|[YOLO e Mecanismos de atenção]|
+|A06|[Transformers e LLM]|
+|A07|[Aprendizado por reforço e GCN]|
 
 ## Projetos guiados
 
@@ -87,8 +86,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T01|[Classificação de dígitos usando Sklearn]()|
 |T02|[Previsão de tempo usando RNNs]()|
 |T03|[Detecção de focos de lixo usando YOLO]()|
-|T04|[Classificação de usuários em redes sociais usando GNN]()|
-|T05|[Processamento de documentos usando LLM e RAG]()|
+|T04|[Processamento de documentos usando LLM e RAG]()|
+|T05|[Classificação de usuários em redes sociais usando GNN]()|
 
 
 ## Links
