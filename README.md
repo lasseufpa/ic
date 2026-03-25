@@ -94,3 +94,10 @@ Colaboradores:
 - Frank Bruno
 - Faveren ShangBum
 - Pedro Canavieira
+
+## Provas e exercícios passados:
+**ID**|**Tópico**|
+|---|---|
+|Q01|[K-nn, SVM, Arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
+|Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
+|Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
