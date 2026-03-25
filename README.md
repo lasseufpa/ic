@@ -1,4 +1,4 @@
-# Inteligência Computacional
+# EC1036 | Inteligência Computacional
 
 Repositório para o curso de Inteligência Computacional [Faculdade de Engenharia da Computação e Telecomunicações (FCT)](https://fct.ufpa.br) da [Universidade Federal do Pará](http://ufpa.br).
 
@@ -13,7 +13,7 @@ analysis”)
 - Técnicas de aprendizagem de máquina para treinamento supervisionado, treinamento
 não-supervisionado e aprendizagem por reforço (“reinforcement learning”)
 - Uma das técnicas mais utilizadas para aprendizado não-supervisionado: agrupamento usando K-means
-- Algumas das técnicas mais utilizadas para aprendizado supervisionado: árvores de decisão, boosting, redes Bayesianas, SVMs (“support vector machines”) 
+- Algumas das técnicas mais utilizadas para aprendizado supervisionado: árvores de decisão, boosting, redes bayesianas, SVMs (“support vector machines”) 
 - Redes neurais artificiais, incluindo técnicas de aprendizagem profunda (“deep learning”) e modelos com redes neurais convolucionais
 - Uma das técnicas mais utilizadas para aprendizado por reforço: “Q-learning”
 - Um dos modelos basilares para redes grafos neurais: "graph convolutional neural network (GCN)"
@@ -92,7 +92,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 ## Provas e exercícios passados:
 **ID**|**Tópico**|
 |---|---|
-|Q01|[K-nn, SVM, Arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
+|Q01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
 |Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
 |Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
 
