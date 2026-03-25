@@ -31,7 +31,7 @@ que adotam a linguagem Python.
 
 ## :writing_hand: Avaliação
 
-A avaliação de cada estudante será baseado em diversas atividades, tais como provas, atividades práticas e um trabalho final. De maneira, a disciplina terá a seguinte divisão:
+A avaliação de cada estudante será baseado em diversas atividades, tais como provas, exercícios e trabalhos guiados. De maneira geral, a disciplina terá a seguinte divisão:
 
 - 3 provas 
 - 5 projetos guiados
@@ -46,7 +46,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 | **N** | **Tópico** | **Materiais** |
 |---|---|---|
-| 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) |
+| 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/1_introducao_a_IA.ipynb)|
 | 2 | **Regressão linear** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) / 💻 [Jupyter notebook](notebooks/2_regressao_linear.ipynb)
 | 3 | **Modelos de classificação**  |
 | 3.1 | **k-NN** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook](notebooks/3_1_knn.ipynb) |
