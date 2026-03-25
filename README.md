@@ -89,15 +89,15 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T04|[Processamento de documentos usando LLM e RAG]|
 |T05|[Classificação de usuários em redes sociais usando GNN]|
 
-Colaboradores:
-- Cláudio Modesto
-- Frank Bruno
-- Faveren ShangBum
-- Pedro Canavieira
-
 ## Provas e exercícios passados:
 **ID**|**Tópico**|
 |---|---|
 |Q01|[K-nn, SVM, Arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
 |Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
 |Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
+
+Colaboradores:
+- Cláudio Modesto
+- Frank Bruno
+- Faveren ShangBum
+- Pedro Canavieira
