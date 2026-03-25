@@ -33,7 +33,7 @@ que adotam a linguagem Python.
 
 A avaliação de cada estudante será baseado em diversas atividades, tais como provas, atividades práticas e um trabalho final. De maneira, a disciplina terá a seguinte divisão:
 
-- 2 provas 
+- 3 provas 
 - 5 projetos guiados
 - 7 listas de exercícios
 
@@ -83,11 +83,11 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 |**ID**|**Tópico**|
 |---|---|
-|T01|[Classificação de dígitos usando Sklearn]()|
-|T02|[Previsão de tempo usando RNNs]()|
-|T03|[Detecção de focos de lixo usando YOLO]()|
-|T04|[Processamento de documentos usando LLM e RAG]()|
-|T05|[Classificação de usuários em redes sociais usando GNN]()|
+|T01|[Classificação de dígitos usando Sklearn]|
+|T02|[Previsão de tempo usando RNNs]|
+|T03|[Detecção de focos de lixo usando YOLO]|
+|T04|[Processamento de documentos usando LLM e RAG]|
+|T05|[Classificação de usuários em redes sociais usando GNN]|
 
 
 ## Links
