@@ -59,12 +59,12 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook] |
 | 7 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook] |
 | 8 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 9 | **Redes neurais recorrentes** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 9 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
 | 10 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 11 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 12 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 13 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 14 | **Redes grafos neurais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 14 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
 
 ## Exercícios
