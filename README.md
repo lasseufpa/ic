@@ -42,7 +42,7 @@ A avaliação de cada estudante será baseado em diversas atividades, tais como 
 1. GÉRON, Aurélien: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts,
 Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
-## Aulas
+## :calendar: Aulas
 
 | **N** | **Tópico** | **Materiais** |
 |---|---|---|
