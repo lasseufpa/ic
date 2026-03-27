@@ -71,7 +71,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 |**ID**|**Tópico**|
 |---|---|
-|A01|[Introdução a IA e Normalização de dados]|
+|A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
 |A02|[Decision Stump, Árvores de decisão k-NN e SVM]|
 |A03|[Redes neurais artificiais]|
 |A04|[Redes neurais convolucionais e recorrentes]|
