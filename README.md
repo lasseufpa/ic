@@ -83,6 +83,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 |**ID**|**Tópico**|
 |---|---|
+|T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
 |T01|[Classificação de dígitos usando Sklearn]|
 |T02|[Previsão de tempo usando RNNs]|
 |T03|[Detecção de focos de lixo usando YOLO]|
@@ -96,8 +97,12 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
 |Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
 
+Professor:
+- Aldebaro Klautau
+
 Colaboradores:
 - Cláudio Modesto
 - Frank Bruno
 - Faveren ShangBum
 - Pedro Canavieira
+- Caio Brasil
