@@ -57,14 +57,15 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 4 | **Ensemble learning** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook] |
 | 5 | **Aprendizado Bayesiano** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook] |
 | 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook] |
-| 7 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook] |
-| 8 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 9 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
-| 10 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 11 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 12 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 13 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 14 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
+| 7 | **Redução de dimensionalidade** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/7_reducao_dimensionalidade_pca_tsne.ipynb) |
+| 8 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook] |
+| 9 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 10 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
+| 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 12 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 13 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 14 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 15 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
 
 ## :pencil2: Exercícios
@@ -84,7 +85,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |**ID**|**Tópico**|
 |---|---|
 |T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
-|T01|[Classificação de dígitos usando Sklearn]|
+|T01|[Classificação de dígitos usando Sklearn](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_1.pdf)|
 |T02|[Previsão de tempo usando RNNs]|
 |T03|[Detecção de focos de lixo usando YOLO]|
 |T04|[Processamento de documentos usando LLM e RAG]|
