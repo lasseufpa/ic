@@ -51,8 +51,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 3 | **Modelos de classificação**  |
 | 3.1 | **k-NN** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook](notebooks/3_1_knn.ipynb) |
 | 3.2 | **Decision stump** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf) / 💻 [Jupyter notebook](notebooks/3_2_decision_stump.ipynb) |
-| 3.3 | **Árvores de decisão** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook] |
-| 3.4 | **Random forest** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 3.3 | **Árvores de decisão** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook](notebooks/3_3_Arvores_de_Decisao.ipynb) |
+| 3.4 | **Random forest** | 📄 [Apresentação] / 💻 [Jupyter notebook](notebooks/3_4_Florestas_Aleatorias.ipynb) |
 | 3.5 | **SVM** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_5_SVM.pdf) / 💻 [Jupyter notebook] |
 | 4 | **Ensemble learning** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook] |
 | 5 | **Aprendizado Bayesiano** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook] |
