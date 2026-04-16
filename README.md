@@ -57,8 +57,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 4 | **Ensemble learning** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook] |
 | 5 | **Aprendizado Bayesiano** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook] |
 | 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook](notebooks/6_agrupamento_e_deteccao_de_anomalia.ipynb)  |
-| 7 | **Redução de dimensionalidade** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/7_reducao_dimensionalidade_pca_tsne.ipynb) |
-| 8 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook] |
+| 7 | **Redução de dimensionalidade** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_reducao_de_dimensionalidade.pdf) / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/7_reducao_dimensionalidade_pca_tsne.ipynb) |
+| 8 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/8_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook] |
 | 9 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 10 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
 | 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
