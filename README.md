@@ -73,7 +73,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |**ID**|**Tópico**|
 |---|---|
 |A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
-|A02|[Decision stump, árvores de decisão k-NN e SVM]|
+|A02|[Decision stump, árvores de decisão k-NN e SVM](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_2.pdf)|
 |A03|[Redes neurais artificiais e recorrentes]|
 |A04|[Redes neurais convolucionais]|
 |A05|[YOLO e Mecanismos de atenção]|
@@ -86,8 +86,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |---|---|
 |T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
 |T01|[Classificação de dígitos usando Sklearn](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_1.pdf)|
-|T02|[Previsão de tempo usando RNNs]|
-|T03|[Detecção de focos de lixo usando YOLO]|
+|T02|[Detecção de focos de lixo usando YOLO]|
+|T03|[Previsão de tempo usando RNNs]|
 |T04|[Processamento de documentos usando LLM e RAG]|
 |T05|[Classificação de usuários em redes sociais usando GNN]|
 
