@@ -74,11 +74,10 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |---|---|
 |A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
 |A02|[Decision stump, árvores de decisão k-NN e SVM](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_2.pdf)|
-|A03|[Redes neurais artificiais e recorrentes]|
-|A04|[Redes neurais convolucionais]|
-|A05|[YOLO e Mecanismos de atenção]|
-|A06|[Transformers e LLM]|
-|A07|[Aprendizado por reforço e GCN]|
+|A03|[Redes neurais artificiais, convolucionais e YOLO]|
+|A04|[Redes neurais recorrentes, mecanismos de atenção e Transformers]|
+|A05|[LLMs]|
+|A06|[Aprendizado por reforço e GCN]|
 
 ## :triangular_ruler: Projetos guiados
 
