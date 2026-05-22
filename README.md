@@ -59,7 +59,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook](notebooks/6_agrupamento_e_deteccao_de_anomalia.ipynb)  |
 | 7 | **Redução de dimensionalidade** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_reducao_de_dimensionalidade.pdf) / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/7_reducao_dimensionalidade_pca_tsne.ipynb) |
 | 8 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/8_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook](notebooks/8_introducao_a_redes_neurais.ipynb) |
-| 9 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
+| 9 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/9_redes_cnn.ipynb) |
 | 10 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
 | 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 12 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
@@ -74,7 +74,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |---|---|
 |A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
 |A02|[Decision stump, árvores de decisão k-NN e SVM](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_2.pdf)|
-|A03|[Redes neurais artificiais, convolucionais e YOLO]|
+|A03|[Redes neurais artificiais, convolucionais e YOLO](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_3.pdf)|
 |A04|[Redes neurais recorrentes, mecanismos de atenção e Transformers]|
 |A05|[LLMs]|
 |A06|[Aprendizado por reforço e GCN]|
@@ -85,7 +85,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |---|---|
 |T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
 |T01|[Classificação de dígitos usando Sklearn](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_1.pdf)|
-|T02|[Detecção de focos de lixo usando YOLO]|
+|T02|[Detecção de árvores de açaí usando YOLO](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_2.pdf)|
 |T03|[Previsão de tempo usando RNNs]|
 |T04|[Processamento de documentos usando LLM e RAG]|
 |T05|[Classificação de usuários em redes sociais usando GNN]|
