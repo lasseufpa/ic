@@ -64,8 +64,8 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 12 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 13 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 13.1 | **RAG** | 📄 [Apresentação] / 💻 [Jupyter notebook](notebooks/13_1_RAG.ipynb) |
-| 13.2 | **Exemplo para projeto guiado 3** | 📄 [Apresentação] / 💻 [Jupyter notebook](notebooks/13_2_Exemplo_de_RAG.ipynb) |
+| 13.1 | **RAG** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1PJcBvG3_-DpaIlHyEXiYbs95trtUN_Xp?usp=sharing) |
+| 13.2 | **Exemplo para projeto guiado 3** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1DZqofy-1H_kImeoVamACJP3Zg-ieomxO?usp=sharing) |
 | 14 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 15 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
