@@ -33,9 +33,9 @@ que adotam a linguagem Python.
 
 A avaliação de cada estudante será baseado em diversas atividades, tais como provas, exercícios e trabalhos guiados. De maneira geral, a disciplina terá a seguinte divisão:
 
-- 3 provas 
-- 5 projetos guiados
-- 7 listas de exercícios
+- 2 provas 
+- 3 projetos guiados
+- 4 listas de exercícios
 
 ## :books: Bibliografia
 
@@ -79,8 +79,6 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
 |A02|[Decision stump, árvores de decisão k-NN e SVM](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_2.pdf)|
 |A03|[Redes neurais artificiais, convolucionais e YOLO](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_3.pdf)|
-|A04|[Mecanismos de atenção, Transformers e LLMs]|
-|A05|[Aprendizado por reforço e GCN]|
 
 ## :triangular_ruler: Projetos guiados
 
@@ -89,9 +87,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
 |T01|[Classificação de dígitos usando Sklearn](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_1.pdf)|
 |T02|[Detecção de árvores de açaí usando YOLO](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_2.pdf)|
-|T03|[Previsão de tempo usando RNNs]|
-|T04|[Processamento de documentos usando LLM e RAG]|
-|T05|[Classificação de usuários em redes sociais usando GNN]|
+|T03|[Processamento de documentos usando LLM e RAG](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_3.pdf)|
 
 ## 📄 Provas e exercícios passados:
 **ID**|**Tópico**|
