@@ -92,9 +92,9 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 ## 📄 Provas e exercícios passados:
 **ID**|**Tópico**|
 |---|---|
-|Q01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
-|Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
-|Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
+|Prova 01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
+|Prova 02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf) e mais sobre
+[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
 
 Professor:
 - Aldebaro Klautau
@@ -103,5 +103,5 @@ Colaboradores:
 - Cláudio Modesto
 - Frank Bruno
 - Faveren ShangBum
-- Pedro Canavieira
+- Pedro Caio Canavieira
 - Caio Brasil
