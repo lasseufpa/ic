@@ -1,0 +1,16 @@
+1) Already used:
+
+MNIST - different sklearn classifiers - no neural networks
+
+Yolo - detecção e localização de açaizeiros utilizando detecção de objetos com YOLO11
+
+Avaliação de sistemas RAG com LLMs
+
+
+2) To be designed:
+
+Complete ML system with small and multimodal ddatasets
+
+RL with Atari videogames
+
+
