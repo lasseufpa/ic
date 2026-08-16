@@ -1,0 +1,23 @@
+A nota final é gerada a partir de 3 notas:
+1ª nota - Prova 1 (total de 10 pontos)
+2ª nota - Prova 2 (total de 10 pontos)
+3ª nota - Média dos trabalhos, incluindo projeto final (total de 10 pontos). O peso do projeto final é de 30% dessa 3a nota.
+* as duas piores notas serão excluídas da média dos trabalhos.
+A nota final será a média aritmética dessas 3 notas
+
+Para mapear essa nota final em conceito, usa-se: o mapa:
+[0, 5[ - INS
+[5, 7[ - REG
+[7, 9[ - BOM
+[9, 10] - EXC
+de acordo com o definido na Resolução da UFPA:
+https://sege.ufpa.br/boletim_interno/downloads/resolucoes/consepe/2022/5567%20Altera%20a%20Resolu%C3%A7%C3%A3o%20n.%204.577-2014,%20que%20aprovou%20do%20Regimento%20do%20PPLSA.pdf
+
+Exemplo de notas:
+Prova 1: 6,4
+Prova 2: 8,0
+Trabalhos: 7,2
+Média aritmética: 7,2
+Conceito final: BOM
+
+Aos que iniciam o curso ainda aguardando solicitação de matrícula (ou seja, aos que no inicio do curso ainda não constam no SIGAA): desde o início do curso, façam todas as atividades como se matriculados estivessem. Para isso é que usamos o Google Classroom: para que possam participar desde o inicio de todas atividades. A aritmética da 3a nota acima, é feita considerando-se que todos puderam fazer desde a 1a atividade, e se não a fizerem ficarão com zero.
