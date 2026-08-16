@@ -33,9 +33,9 @@ que adotam a linguagem Python.
 
 A avaliação de cada estudante será baseado em diversas atividades, tais como provas, exercícios e trabalhos guiados. De maneira geral, a disciplina terá a seguinte divisão:
 
-- 3 provas 
-- 5 projetos guiados
-- 7 listas de exercícios
+- 2 provas 
+- 3 projetos guiados
+- 4 listas de exercícios
 
 ## :books: Bibliografia
 
@@ -67,6 +67,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 | 13.1 | **Parâmetros de inferência** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1F3SgMyu6PNFA8_CTZkg5GvRw1Jl4MbkQ?usp=sharing) |
 | 13.2 | **RAG** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1PJcBvG3_-DpaIlHyEXiYbs95trtUN_Xp?usp=sharing) |
 | 13.3 | **Exemplo para projeto guiado 3** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1DZqofy-1H_kImeoVamACJP3Zg-ieomxO?usp=sharing)|
+| 13.4 | **APIs de LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1uUIO6mmaCeGhiEkLEfXxoOSuUGCzRTbB?usp=sharing) |
 | 14 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
 | 15 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
 
@@ -78,8 +79,6 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |A01|[Introdução a IA e Normalização de dados](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_1.pdf)|
 |A02|[Decision stump, árvores de decisão k-NN e SVM](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_2.pdf)|
 |A03|[Redes neurais artificiais, convolucionais e YOLO](https://github.com/lasseufpa/ic/blob/main/exercicios/IC_atividade_3.pdf)|
-|A04|[Mecanismos de atenção, Transformers e LLMs]|
-|A05|[Aprendizado por reforço e GCN]|
 
 ## :triangular_ruler: Projetos guiados
 
@@ -88,16 +87,13 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |T00|[Template para o entregável](https://github.com/lasseufpa/ic/blob/main/notebooks/0_template.ipynb)|
 |T01|[Classificação de dígitos usando Sklearn](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_1.pdf)|
 |T02|[Detecção de árvores de açaí usando YOLO](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_2.pdf)|
-|T03|[Previsão de tempo usando RNNs]|
-|T04|[Processamento de documentos usando LLM e RAG]|
-|T05|[Classificação de usuários em redes sociais usando GNN]|
+|T03|[Processamento de documentos usando LLM e RAG](https://github.com/lasseufpa/ic/blob/main/projetos_guiados/projeto_guiado_3.pdf)|
 
 ## 📄 Provas e exercícios passados:
 **ID**|**Tópico**|
 |---|---|
-|Q01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
-|Q02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf)|
-|Q03|[CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
+|Prova 01|[k-NN, SVM, arvóres de decisão, K-means e PCA](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/1_questoes.pdf)|
+|Prova 02|[Redes neurais, CNN e YOLO](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/2_questoes.pdf) e mais sobre [CNN](https://github.com/lasseufpa/ic/blob/main/questoes_resolvidas/3_questoes.pdf)|
 
 Professor:
 - Aldebaro Klautau
@@ -105,6 +101,6 @@ Professor:
 Colaboradores:
 - Cláudio Modesto
 - Frank Bruno
-- Faveren ShangBum
-- Pedro Canavieira
+- Faveren Shangbum
+- Pedro Caio Canavieira
 - Caio Brasil
