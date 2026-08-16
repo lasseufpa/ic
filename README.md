@@ -31,11 +31,7 @@ que adotam a linguagem Python.
 
 ## :writing_hand: Avaliação
 
-A avaliação de cada estudante será baseado em diversas atividades, tais como provas, exercícios e trabalhos guiados. De maneira geral, a disciplina terá a seguinte divisão:
-
-- 2 provas 
-- 3 projetos guiados
-- 4 listas de exercícios
+A avaliação de cada estudante será baseado em diversas atividades, tais como provas, exercícios e trabalhos guiados. Detalhes podem ser encontrados em arquivo(s) na pasta "orientacao_regras"
 
 ## :books: Bibliografia
 
