@@ -1,0 +1,32 @@
+Class name: 2026.2o Inteligência Computacional - FCT
+Section: https://nextcloud.lasseufpa.org/s/c64gQpXbJJZzBpG
+Description: See https://github.com/lasseufpa/ic/
+Subject: AI
+
+Prezados de Inteligência Computacional da FCT/UFPA,
+
+Bem-vindos ao curso. O site com material do curso é:
+
+https://github.com/lasseufpa/ic/
+
+As videolectures estão no site "nextcloud" do curso: https://nextcloud.lasseufpa.org/s/c64gQpXbJJZzBpG
+
+Vocês estão convidados a já verificar o conteúdo, e iniciar os estudos.
+
+-----
+
+Início do curso de Comunicações Digitais do PPGEE
+
+Texto:	
+Prezados(as) matriculados em Inteligência Computacional da FCT/UFPA,
+
+Bem-vindos!
+
+Iremos usar o Google Classroom. Favor, façam sua inscrição em:
+
+https://classroom.google.com/c/ODc0NzMxNTk0NTU0?cjc=uiyjiuqu
+
+O Google exige que não usem email @ufpa.br, mas sim outro, como @google.com.
+
+O material para inicio do curso já está disponibilizado lá.
+
