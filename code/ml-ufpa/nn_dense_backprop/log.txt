@@ -1,0 +1,129 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 2)                 6         
+                                                                 
+ dense_1 (Dense)             (None, 2)                 6         
+                                                                 
+=================================================================
+Total params: 12
+Trainable params: 12
+Non-trainable params: 0
+_________________________________________________________________
+===START TRAINING THE NETWORK:===
+Learning rate =  0.001
+ ############ Step = 0 ############
+1) ===BEFORE using any GRADIENT:===
+Network input [x1, x2]:
+ [[0.05 0.1 ]]
+Network output [out_o1, out_o2]:
+ [[0.7569319 0.7677179]]
+targets:
+ [[0.01 0.99]]
+weights at the beginning of this step
+weights[ 0 ]= [[0.15 0.2 ]
+ [0.25 0.3 ]]
+weights[ 1 ]= [0.35 0.35]
+weights[ 2 ]= [[0.4  0.45]
+ [0.5  0.55]]
+weights[ 3 ]= [0.6 0.6]
+MSE with the initial weights: 0.3036582988081465
+2) ===After applying GRADIENT:===
+------------- Results for step (iteration) = 0
+Gradients g to be used in new_weights = current_weights - learning_rate*g
+gradients[ 0 ]= [[0.00044758 0.00056464]
+ [0.00089517 0.00112929]]
+gradients[ 1 ]= [0.00895169 0.01129289]
+gradients[ 2 ]= [[ 0.08169586 -0.02356439]
+ [ 0.08194415 -0.02363601]]
+gradients[ 3 ]= [ 0.137425   -0.03963893]
+weights after gradient propagation in this step
+weights[ 0 ]= [[0.14955242 0.19943535]
+ [0.24910483 0.2988707 ]]
+weights[ 1 ]= [0.3410483 0.3387071]
+weights[ 2 ]= [[0.31830415 0.4735644 ]
+ [0.41805583 0.573636  ]]
+weights[ 3 ]= [0.46257502 0.63963896]
+MSE with the new weights: 0.2677876667422917
+Learning rate =  0.001
+ ############ Step = 1 ############
+1) ===BEFORE using any GRADIENT:===
+Network input [x1, x2]:
+ [[0.05 0.1 ]]
+Network output [out_o1, out_o2]:
+ [[0.71079135 0.77912843]]
+targets:
+ [[0.01 0.99]]
+weights at the beginning of this step
+weights[ 0 ]= [[0.14955242 0.19943535]
+ [0.24910483 0.2988707 ]]
+weights[ 1 ]= [0.3410483 0.3387071]
+weights[ 2 ]= [[0.31830415 0.4735644 ]
+ [0.41805583 0.573636  ]]
+weights[ 3 ]= [0.46257502 0.63963896]
+MSE with the initial weights: 0.2677876667422917
+2) ===After applying GRADIENT:===
+------------- Results for step (iteration) = 1
+Gradients g to be used in new_weights = current_weights - learning_rate*g
+gradients[ 0 ]= [[0.00034616 0.00047537]
+ [0.00069233 0.00095074]]
+gradients[ 1 ]= [0.00692329 0.00950744]
+gradients[ 2 ]= [[ 0.08532491 -0.02149318]
+ [ 0.08550328 -0.02153811]]
+gradients[ 3 ]= [ 0.14405958 -0.03628832]
+weights after gradient propagation in this step
+weights[ 0 ]= [[0.14920625 0.19895998]
+ [0.2484125  0.29791996]]
+weights[ 1 ]= [0.334125   0.32919964]
+weights[ 2 ]= [[0.23297924 0.49505755]
+ [0.33255255 0.5951741 ]]
+weights[ 3 ]= [0.31851542 0.6759273 ]
+MSE with the new weights: 0.22986575360547087
+Learning rate =  0.001
+ ############ Step = 2 ############
+1) ===BEFORE using any GRADIENT:===
+Network input [x1, x2]:
+ [[0.05 0.1 ]]
+Network output [out_o1, out_o2]:
+ [[0.6576227 0.7892107]]
+targets:
+ [[0.01 0.99]]
+weights at the beginning of this step
+weights[ 0 ]= [[0.14920625 0.19895998]
+ [0.2484125  0.29791996]]
+weights[ 1 ]= [0.334125   0.32919964]
+weights[ 2 ]= [[0.23297924 0.49505755]
+ [0.33255255 0.5951741 ]]
+weights[ 3 ]= [0.31851542 0.6759273 ]
+MSE with the initial weights: 0.22986575360547087
+2) ===After applying GRADIENT:===
+------------- Results for step (iteration) = 2
+Gradients g to be used in new_weights = current_weights - learning_rate*g
+gradients[ 0 ]= [[0.00021079 0.00034574]
+ [0.00042158 0.00069147]]
+gradients[ 1 ]= [0.00421582 0.00691474]
+gradients[ 2 ]= [[ 0.08611797 -0.0197275 ]
+ [ 0.08620654 -0.01974779]]
+gradients[ 3 ]= [ 0.14581555 -0.03340275]
+weights after gradient propagation in this step
+weights[ 0 ]= [[0.14899546 0.19861424]
+ [0.24799092 0.2972285 ]]
+weights[ 1 ]= [0.32990918 0.3222849 ]
+weights[ 2 ]= [[0.14686127 0.51478505]
+ [0.24634601 0.61492187]]
+weights[ 3 ]= [0.17269987 0.70933   ]
+MSE with the new weights: 0.1923003034416778
+
+ ===AFTER executing all GRADIENT descent steps===
+final weights[ 0 ]= [[0.14899546 0.19861424]
+ [0.24799092 0.2972285 ]]
+final weights[ 1 ]= [0.32990918 0.3222849 ]
+final weights[ 2 ]= [[0.14686127 0.51478505]
+ [0.24634601 0.61492187]]
+final weights[ 3 ]= [0.17269987 0.70933   ]
+outputs:
+ [[0.59977007 0.79824007]]
+targets:
+ [[0.01 0.99]]
+Final MSE =  0.1923003034416778

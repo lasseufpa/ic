@@ -1,0 +1,1 @@
+Code useful for projects.

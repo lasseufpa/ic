@@ -1,0 +1,15 @@
+Stable-Baselines3
+
+Official docs:
+https://stable-baselines3.readthedocs.io/
+
+Gymnasium Environments
+
+https://gymnasium.farama.org/
+
+Visual RL Explanation
+
+OpenAI Spinning Up (conceptual):
+https://spinningup.openai.com/en/latest/
+
+conda activate spinningup
