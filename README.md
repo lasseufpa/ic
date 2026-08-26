@@ -2,7 +2,7 @@
 
 Repositório para o curso de Inteligência Computacional [Faculdade de Engenharia da Computação e Telecomunicações (FCT)](https://fct.ufpa.br) da [Universidade Federal do Pará](http://ufpa.br).
 
-A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/e/2PACX-1vQAjfXB_RjCdKxbH8yHniZN7EjJ0YQIsRjUKnMgLsismxIQ93fM7eFW9baPVAq8CJe2-LOZX9NAAOd6/pub).
+A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/187GAutgyCFByS9zN1oFfDmSFBfr_W9W3MeupUJYdv1Y/edit?usp=sharing).
 
 ## :one: Objetivos
 
@@ -37,6 +37,8 @@ A avaliação de cada estudante será baseado em diversas atividades, tais como 
 
 1. GÉRON, Aurélien: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts,
 Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
+
+mas muitos outros livros e recursos da Internet podem ser usados.
 
 ## :calendar: Aulas
 
