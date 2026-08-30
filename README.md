@@ -40,36 +40,6 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 
 mas muitos outros livros e recursos da Internet podem ser usados.
 
-## :calendar: Aulas
-
-| **N** | **Tópico** | **Materiais** |
-|---|---|---|
-| 1 | **Introdução à inteligência artificial** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/1_Introducao_a_IA.pdf) / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/1_introducao_a_IA.ipynb)|
-| 2 | **Regressão linear** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/2_regressao_linear.pdf) / 💻 [Jupyter notebook](notebooks/2_regressao_linear.ipynb)
-| 3 | **Modelos de classificação**  |
-| 3.1 | **k-NN** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_1_k-NN.pdf) / 💻 [Jupyter notebook](notebooks/3_1_knn.ipynb) |
-| 3.2 | **Decision stump** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_2_Decision_stump.pdf) / 💻 [Jupyter notebook](notebooks/3_2_decision_stump.ipynb) |
-| 3.3 | **Árvores de decisão** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_3_arvores_de_decisao.pdf) / 💻 [Jupyter notebook](notebooks/3_3_Arvores_de_Decisao.ipynb) |
-| 3.4 | **Random forest** | 📄 [Apresentação] / 💻 [Jupyter notebook](notebooks/3_4_Florestas_Aleatorias.ipynb) |
-| 3.5 | **SVM** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/3_5_SVM.pdf) / 💻 [Jupyter notebook] |
-| 4 | **Ensemble learning** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/4_Ensemble_learning.pdf) / 💻 [Jupyter notebook] |
-| 5 | **Aprendizado Bayesiano** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/5_aprendizado_bayesiano.pdf) / 💻 [Jupyter notebook] |
-| 6 | **Agrupamento e detecção de anomalia** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/6_agrupamento_e_deteccao_de_anomalia.pdf) / 💻 [Jupyter notebook](notebooks/6_agrupamento_e_deteccao_de_anomalia.ipynb)  |
-| 7 | **Redução de dimensionalidade** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/7_reducao_de_dimensionalidade.pdf) / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/7_reducao_dimensionalidade_pca_tsne.ipynb) |
-| 8 | **Introdução às redes neurais artificiais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/8_introducao_a_redes_neurais.pdf) / 💻 [Jupyter notebook](notebooks/8_introducao_a_redes_neurais.ipynb) |
-| 9 | **Redes neurais convolucionais** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://github.com/lasseufpa/ic/blob/main/notebooks/9_redes_cnn.ipynb) |
-| 10 | **Redes neurais recorrentes** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/9_redes_neurais_recorrentes.pdf) / 💻 [Jupyter notebook] |
-| 11 | **Transformers** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 12 | **Mecanismos de atenção** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 13 | **LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 13.1 | **Parâmetros de inferência** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1F3SgMyu6PNFA8_CTZkg5GvRw1Jl4MbkQ?usp=sharing) |
-| 13.2 | **RAG** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1PJcBvG3_-DpaIlHyEXiYbs95trtUN_Xp?usp=sharing) |
-| 13.3 | **Exemplo para projeto guiado 3** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1DZqofy-1H_kImeoVamACJP3Zg-ieomxO?usp=sharing)|
-| 13.4 | **APIs de LLMs** | 📄 [Apresentação] / 💻 [Jupyter notebook](https://colab.research.google.com/drive/1uUIO6mmaCeGhiEkLEfXxoOSuUGCzRTbB?usp=sharing) |
-| 14 | **Aprendizado por reforço** | 📄 [Apresentação] / 💻 [Jupyter notebook] |
-| 15 | **Redes grafos neurais** | 📄 [Apresentação](https://github.com/lasseufpa/ic/blob/main/slides/14_redes_grafos_neurais.pdf) / 💻 [Jupyter notebook] |
-
-
 ## :pencil2: Exercícios
 
 |**ID**|**Tópico**|
