@@ -2,7 +2,15 @@
 
 Repositório para o curso de Inteligência Computacional [Faculdade de Engenharia da Computação e Telecomunicações (FCT)](https://fct.ufpa.br) da [Universidade Federal do Pará](http://ufpa.br).
 
+## :zero: Quick links to resources:
+
 A agenda de aulas da turma pode ser consultada por esse [link](https://docs.google.com/document/d/187GAutgyCFByS9zN1oFfDmSFBfr_W9W3MeupUJYdv1Y/edit?usp=sharing).
+
+Pasta do GDrive com slides (peça permissão caso queira os editar): [https://drive.google.com/drive/folders/19_2y793KrKSKAjsdL9cs3Ts3yELQbYdn](https://drive.google.com/drive/folders/19_2y793KrKSKAjsdL9cs3Ts3yELQbYdn)
+
+Videolectures: [https://nextcloud.lasseufpa.org/s/ieNdZjSdaptnHKy](https://nextcloud.lasseufpa.org/s/zBNi8yikgEYqs5G)
+
+Escala de participantes das aulas invertidas no PL4/2026: [https://docs.google.com/spreadsheets/d/1jdwtD9wTyjaVEJHfKDxAO-O42EC5m4kU-2d5bGU0kfo/edit](https://docs.google.com/spreadsheets/d/1jdwtD9wTyjaVEJHfKDxAO-O42EC5m4kU-2d5bGU0kfo/edit)
 
 ## :one: Objetivos
 
