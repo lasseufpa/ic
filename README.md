@@ -10,6 +10,8 @@ Pasta do GDrive com slides (peça permissão caso queira os editar): [https://dr
 
 Videolectures: [https://nextcloud.lasseufpa.org/s/ieNdZjSdaptnHKy](https://nextcloud.lasseufpa.org/s/zBNi8yikgEYqs5G)
 
+Videolectures de tópicos avançados: https://nextcloud.lasseufpa.org/s/c5ZJCjKe2TDqyAf
+
 Escala de participantes das aulas invertidas no PL4/2026: [https://docs.google.com/spreadsheets/d/1jdwtD9wTyjaVEJHfKDxAO-O42EC5m4kU-2d5bGU0kfo/edit](https://docs.google.com/spreadsheets/d/1jdwtD9wTyjaVEJHfKDxAO-O42EC5m4kU-2d5bGU0kfo/edit)
 
 ## :one: Objetivos
