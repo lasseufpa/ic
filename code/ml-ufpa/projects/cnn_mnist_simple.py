@@ -13,7 +13,6 @@ def main():
     model = keras.Sequential([
         keras.layers.Input(shape=(28, 28, 1)),
         keras.layers.Conv2D(32, (3, 3), activation="relu"),
-        keras.layers.Conv2D(16, (5, 5), activation="relu"),
         keras.layers.MaxPooling2D(),
         keras.layers.Flatten(),
         keras.layers.Dense(10, activation="softmax"),
